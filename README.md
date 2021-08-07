@@ -1,4 +1,3 @@
 # GuessANumber
 A simple "guess a number" project.
-Started on 8/6/2021
-Coded by Elijah Lin
+V1.0 started (and finished) on 8/6/2021.
